@@ -1,4 +1,21 @@
-## 1 Pick any one of the algorithm from the units 3 / 4 / 5
-###  Enter the choosen algorithm
-###  Create a docker image for the same and push the same to dockerhub.
-###  Add the screenshots here
+# 📚 Day 3 Assignment
+
+## 1. Chosen Algorithms
+- ✅ Logistic Regression
+- ✅ Random Forest
+
+## 2. Docker Images Built and Pushed
+
+The following Docker images were successfully built and pushed:
+
+- 📦 **Image 1**  
+  ![Image 1](images/image1.png)
+
+- 📦 **Image 2**  
+  ![Image 2](./images/image2.png)
+
+- 📦 **Image 3**  
+  ![Image 3](./images/image3.png)
+
+- 📦 **Image 4**  
+  ![Image 4](./images/image4.png)
