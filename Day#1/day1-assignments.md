@@ -14,7 +14,6 @@ https://github.com/keerthana140404
 ### Python Installation
 ![image](https://github.com/user-attachments/assets/a64d8f45-b23d-4417-8d67-0e7b13636c84)
 ### Docker Desktop Installation
-![image](https://github.com/user-attachments/assets/68570c9a-473d-4186-a60d-766a2cd3b9dd)
 ### DockerHub Account Username
 ![Screenshot (183)](https://github.com/user-attachments/assets/83a3446d-f6de-475c-a7a3-b155b014b42f)
 -----
