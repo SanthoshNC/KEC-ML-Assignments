@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3a8f9877-4bd2-4ff9-abe7-124c99b6ca50)## 1 GenAI Certification
+## 1 GenAI Certification
 ### Add the certification screenshot here:
 ![Gen Ai](https://github.com/user-attachments/assets/e1b733fa-3bb0-4c35-8a13-7dd2c2fd24b1)
 
@@ -12,6 +12,7 @@ https://credentials.databricks.com/e58c5c92-e839-4c50-93bb-f5877eb0006f
 
 ### GitHub Account Username
 https://github.com/jayalakshmi-sakthi
+
 ### VSCode Installation
 ![vs code](https://github.com/user-attachments/assets/074732e5-068b-4047-ba02-59fc6d855aaf)
 
