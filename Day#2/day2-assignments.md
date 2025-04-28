@@ -1,6 +1,6 @@
 ## 1 Advanced Git commands
 
-### Write it in dev.to blog / Share the Dev.to blog URL for the Git / GitHub documentation:
+### Write it in dev.to blog / Share the Dev.to blog URL for the Git / GitHub documentation
 
 ---
 
