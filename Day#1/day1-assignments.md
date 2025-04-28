@@ -1,18 +1,28 @@
-## 1 GenAI Certification
-### Add the certification screenshot here:
-### Add the Accredible badge link here:
------
-## 2 Environment Setup
-### Git Installation:
-### GitHub Account Username
-### VSCode Installation
-### Python Installation
-### Docker Desktop Installation
-### DockerHub Account Username
------
-## 3 Impromptu Learning
-### Add the Impromptu Learning topic that you shared in the classroom:
------
-## 4 Dev.to Blog
-### Share the Dev.to blog URL for the Git / GitHub documentation:
------
+# 📚 Day 3 Assignment
+
+## 1. 🎯 GenAI Certification
+
+- 📜 **Generative AI Fundamentals Certificate**  
+  ![Certificate](certi.png)
+
+- 🏅 **Generative AI Fundamentals Badge**  
+  ![Badge](badge.png)
+
+---
+
+## 2. 🛠️ Environment Setup
+
+- ✅ **Git Installation**
+- 👤 **GitHub Account Username**: `Surya-2k4`
+- ✅ **VSCode Installation**
+- ✅ **Python Installation**
+- ✅ **Docker Desktop Installation**
+- 👤 **DockerHub Account Username**: `surya2k42`
+
+---
+
+## 3. 📝 Dev.to Blog
+
+- 🔗 [Getting Started with Git and GitHub — A Hands-on Guide](https://dev.to/surya_cca7c59900971f19c9b/getting-started-with-git-and-github-a-hands-on-guide-3akd)
+
+---
