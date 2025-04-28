@@ -2,3 +2,4 @@
 ###  Enter the choosen algorithm
 ###  Create a docker image for the same and push the same to dockerhub.
 ###  Add the screenshots here
+https://dev.to/gokila0/create-an-docker-image-for-ml-project-2if0
