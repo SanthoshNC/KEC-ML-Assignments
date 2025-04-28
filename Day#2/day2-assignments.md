@@ -1,7 +1,11 @@
-## 1 Advanced Git commands 
-###  url : https://dev.to/surya_cca7c59900971f19c9b/git-ai-docker-day-2-of-my-ml-journey-was-a-wild-ride-kli
------
 
+# 📚 Day 3 Assignment
+
+## 1. Advanced Git Commands
+
+- 🔗 [Git, AI, Docker: Day 2 of My ML Journey Was a Wild Ride](https://dev.to/surya_cca7c59900971f19c9b/git-ai-docker-day-2-of-my-ml-journey-was-a-wild-ride-kli)
+
+---
 
 # 🐳 2. Docker Image Creation and Pushing to Docker Hub
 
@@ -44,6 +48,7 @@ docker build -t surya2k42/mlproject:latest .
 ```bash
 docker login
 ```
+
 (Enter your **Docker Hub username** and **password** when prompted.)
 
 ---
@@ -62,9 +67,12 @@ docker push yourdockerhubusername/yourimagename:tag
 docker push surya2k42/mlproject:latest
 ```
 
------
-## 3 Poster Creation
-###  Topic : Improving accuracy in Regression Models
-###  image 
------
+---
 
+## 3. Poster Creation
+
+- **Topic**: Improving Accuracy in Regression Models
+
+- ![Poster Image](ML-Poster.png)  
+
+---
