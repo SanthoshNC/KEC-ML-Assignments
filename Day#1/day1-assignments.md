@@ -16,3 +16,5 @@
 ## 4 Dev.to Blog
 ### Share the Dev.to blog URL for the Git / GitHub documentation:
 -----
+https://dev.to/bhuvankumar_v24mcr014_81/docker-file-2lfe
+[text](../../Downloads/certificate.pdf)

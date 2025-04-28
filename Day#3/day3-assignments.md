@@ -2,3 +2,5 @@
 ###  Enter the choosen algorithm
 ###  Create a docker image for the same and push the same to dockerhub.
 ###  Add the screenshots here
+![alt text](day3.png)
+![alt text](d3.png)

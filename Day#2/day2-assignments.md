@@ -12,3 +12,4 @@
 ###  all the code should be in the same repo but with different branch name. Add the repo URL
 ###  Mention the branch name here
 -----
+![alt text](<Day 2 poster.png>)
