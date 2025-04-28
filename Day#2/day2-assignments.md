@@ -9,7 +9,8 @@ https://dev.to/jeniston/git-github-1j73
 ## 3 Poster Creation
 ###  Pls use the topics from Unit #3
 ###  Paste the poster in this Repo
-[certificate (1).pdf](https://github.com/user-attachments/files/19943462/certificate.1.pdf)
+![KNN](https://github.com/user-attachments/assets/f0ba7066-5a9b-4eab-8c5e-e105d165ca8a)
+
 
 -----
 ## 4 Create a new branch and add the Dockerfile
