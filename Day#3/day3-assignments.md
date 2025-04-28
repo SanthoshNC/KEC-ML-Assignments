@@ -8,14 +8,20 @@
 
 The following Docker images were successfully built and pushed:
 
-- 📦 **Image 1**  
-  ![Image 1](images/image1.png)
+- 📦 **Docker build**
+  
+  ![Image 1](images/one.png)
 
-- 📦 **Image 2**  
-  ![Image 2](./images/image2.png)
+- 📦 **Docker images**
+  
+  ![Image 2](./images/two.png)
 
-- 📦 **Image 3**  
-  ![Image 3](./images/image3.png)
+- 📦 **Dcoker push **
+  
+  ![Image 3](./images/three.png)
 
-- 📦 **Image 4**  
-  ![Image 4](./images/image4.png)
+  ![Image 4](./images/four.png)
+
+  - 📦 **Docker Dashboard**
+
+  ![Image 4](./images/dockerDash.png)
