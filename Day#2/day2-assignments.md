@@ -9,13 +9,15 @@ https://dev.to/dharansdc/git-github-the-only-guide-you-need-to-start-version-con
 -----
 ## 3 Poster Creation
 ###  Pls use the topics from Unit #3
-Deep Q Network
+Deep Q Learning
 ###  Paste the poster in this Repo
+![Q-Learning](https://github.com/user-attachments/assets/89bc464a-a22c-4f32-8fa1-d4d9b0703cfa)
 
 -----
 ## 4 Create a new branch and add the Dockerfile
 ###  all the code should be in the same repo but with different branch name. Add the repo URL
 https://github.com/dharan-sdc/24mcr119/tree/docker_file
 ###  Mention the branch name here
+
 docker_file
 -----
