@@ -1,4 +1,4 @@
-# 📚 Day 3 Assignment
+# 📚 Day 1 Assignment
 
 ## 1. 🎯 GenAI Certification
 
