@@ -1,5 +1,6 @@
 ## 1 GenAI Certification
 ### Add the certification screenshot here:
+![Screenshot (174)](https://github.com/user-attachments/assets/97bd9690-aa8e-44fc-84d1-be88e6df44b4)
 
 ### Add the Accredible badge link here:   
 https://credentials.databricks.com/6ab03e72-bb2f-44d2-b5e6-c8afb84daf7b#acc.AfQ0d5Cq
