@@ -15,7 +15,8 @@ https://dev.to/vashantha_kumarks_f50a2/docker-image-creation-and-pushing-to-dock
 
 -----
 ## 4 Create a new branch and add the Dockerfile
-###  all the code should be in the same repo but with different branch name. Add the repo URL
-###  Mention the branch name here
+###  all the code should be in the same repo but with different branch name. Add the repo URL 
+https://github.com/vashanth-kumar/24MCR124/tree/feature-24MCR124
+###  Mention the branch name here : feature-24MCR124
 
 -----
