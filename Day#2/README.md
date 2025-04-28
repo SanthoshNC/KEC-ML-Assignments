@@ -1,5 +1,5 @@
 
-# 📚 Day 3 Assignment
+# 📚 Day 2 Assignment
 
 ## 1. Advanced Git Commands
 
