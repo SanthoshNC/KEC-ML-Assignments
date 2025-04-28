@@ -60,6 +60,7 @@ Docker Desktop installed successfully (Verified Docker is running).
 ## 3 Impromptu Learning
 ### Add the Impromptu Learning topic that you shared in the classroom:
 ML Model Training Explained With Practical
+
 **Understanding Git Internals: How Git Tracks Changes at the Backend**
 
 -----
