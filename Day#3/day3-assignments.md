@@ -5,7 +5,7 @@ KNN ALGORITHM
 ###  Create a docker image for the same and push the same to dockerhub.
 ###  Add the screenshots here
 
-docker-build
+Docker-build
 
 ![docker-build](https://github.com/user-attachments/assets/2069c893-6fd4-4c61-af9d-b09bb40ddfa0)
 
