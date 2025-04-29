@@ -1,4 +1,4 @@
-![ChatGPT Image Apr 25, 2025, 10_10_40 PM](https://github.com/user-attachments/assets/29dc2be3-e6b2-4c71-bbe8-838e2878ca17)## 1 Advanced Git commands 
+
 ###  Write it in dev.to blog / Share the Dev.to blog URL for the Git / GitHub documentation:
 -----https://dev.to/mouleeshwaran_s_28/git-commands-3m31
 ## 2 Docker Image creation and pushing to DockerHub
