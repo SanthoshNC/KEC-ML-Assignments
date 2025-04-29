@@ -1,0 +1,82 @@
+dev.to blog link:  https://dev.to/dashboard
+GitHub account link : https://github.com/NandhaprabhuR
+gen ai certification link : https://credentials.databricks.com/400d6999-f235-4656-a887-5838b0726b85#acc.rJbTwO65
+
+
+Step-by-Step Git Commands Execution:
+Initialize a Git repository:
+	git init
+Creates a new Git repository in the folder 24MCR072.
+
+Add a file to staging area:
+	git add 24MCR072.txt
+Adds 24MCR072.txt to the staging area.
+
+Commit the file:
+	git commit -m "Added Personal Details"
+Creates a commit with the message "Added Personal Details".
+
+Check Git status:
+	 git status
+Shows that 24MCR072.txt has been modified but not staged.
+
+View commit log:
+	 git log
+Displays the commit history (one commit at this point).
+
+Add remote GitHub repository:
+	 git remote add origin https://github.com/NandhaprabhuR/24MCR072.git
+Links the local repository to a remote GitHub repo.
+
+Check current branch:
+	 git branch
+Shows the current branch is master.
+
+Rename branch from master to main:
+	 git branch -M main
+Renames the current branch to main.
+
+
+
+Set Git global config for email and username:
+	git config --global user.email "prabhukgam@gmail.com"
+git config --global user.name "NandhaprabhuR"
+Sets your global Git identity.
+
+Push code to remote repo for the first time:
+	 git push -u origin main
+Pushes the main branch to GitHub and sets upstream tracking.
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pfpgegztmq6ddm3fjv63.png)
+
+
+
+ 
+
+
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1e78i5yy4f2ormsndnjf.png)
+
+
+
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ky6ccmll5pygasoer9cd.png)
+
+
+ 
+
+
+ 
+
+
+Then , Again We will Modify or add new file means we need to follow the same steps, like
+	
+	git add .
+	git commit -m “message”
+	git push origin main
+
+
+
+
+
+
