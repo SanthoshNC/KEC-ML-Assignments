@@ -1,6 +1,7 @@
 ## 1 GenAI Certification
 ### Add the certification screenshot here:file:///Users/ragham/Documents/PG-college/2nd-sem/ml%20webinar%20pic/certificate.pdf
 ### Add the Accredible badge link here:file:///Users/ragham/Documents/PG-college/2nd-sem/ml%20webinar%20pic/Screenshot%202025-04-24%20at%208.41.32%E2%80%AFAM.png
+https://credentials.databricks.com/db9586ad-cb6e-482a-9ac1-8f9250f21d0c#acc.AsSRi3kp
 -----
 ## 2 Environment Setup
 ### Git Installation:done
