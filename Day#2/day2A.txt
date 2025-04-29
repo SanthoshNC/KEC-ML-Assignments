@@ -1,0 +1,13 @@
+## 1 Advanced Git commands 
+
+https://dev.to/developersakthi/beyond-the-basics-10-git-commands-to-level-up-your-development-game-gm6
+
+
+## 3 Poster Creation
+
+Poster SVM
+
+
+
+## 4 Create a new branch and add the Dockerfile
+
