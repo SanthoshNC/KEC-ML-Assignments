@@ -12,7 +12,10 @@
 ### DockerHub Account Username : bharani195
 -----
 ## 3 Impromptu Learning
-### Add the Impromptu Learning topic that you shared in the classroom:
+### Add the Impromptu Learning topic that you shared in the classroom:https://newsletter.devopscube.com/p/ml-basics-for-devops-engineers
+	- https://newsletter.devopscube.com/p/ml-model-training-explained
+	- https://newsletter.devopscube.com/p/mlops-for-devops-engineers
+
 -----
 ## 4 Dev.to Blog
 ### Share the Dev.to blog URL for the Git / GitHub documentation:https://dev.to/bharanidharan_fcaccd5d553/step-by-step-git-commands-execution-3g4o
