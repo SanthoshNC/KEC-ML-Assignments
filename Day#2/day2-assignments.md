@@ -1,7 +1,7 @@
 ## 1 Advanced Git commands 
 ###  Write it in dev.to blog / Share the Dev.to blog URL for the Git / GitHub documentation:https://dev.to/bharanidharan_fcaccd5d553/step-by-step-git-commands-execution-3g4o
 -----
-## 2 Docker Image creation and pushing to DockerHub
+## 2 Docker Image creation and pushing to DockerHub: https://dev.to/bharanidharan_fcaccd5d553/dockerize-and-share-your-ml-model-logistic-regression-with-iris-dataset-3adh
 ###  Write the steps and commands in dev.to blog
 -----
 ## 3 Poster Creation
@@ -10,6 +10,6 @@
 
 -----
 ## 4 Create a new branch and add the Dockerfile
-###  all the code should be in the same repo but with different branch name. Add the repo URL:https://github.com/bharani195/24MCR010.git
-###  Mention the branch name here
+###  all the code should be in the same repo but with different branch name. Add the repo URL: https://github.com/bharani195/24MCR010/tree/features
+###  Mention the branch name here: 24MCR010
 -----
