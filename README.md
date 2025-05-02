@@ -1,4 +1,4 @@
-# 🚀 GenAI Learning Journey: 3-Day Assignment Overview
+# 🚀 Machine Learning Journey: 3-Day Assignment Overview
 
 Welcome to my **3-day journey** through setting up environments, exploring Git, Docker, and applying Machine Learning models with a DevOps mindset!  
 This repository documents my learnings, practical assignments, and achievements during this phase. 🌟
